@@ -1,61 +1,83 @@
-#💡 Projeto de Tecnologia da Informação e Comunicação (PTIC)
-📖 Introdução
+## 🎨 Artes Digitais
 
-A disciplina de Projeto de Tecnologia da Informação e Comunicação (PTIC) tem como objetivo desenvolver projetos tecnológicos que integrem conhecimentos de informática, comunicação, inovação e empreendedorismo. Durante as atividades, os alunos aprendem a transformar ideias em soluções práticas, utilizando ferramentas digitais e metodologias de planejamento.
+---
 
-🎯 O que é PTIC?
+## 📖 Introdução
 
-PTIC é uma disciplina voltada para a criação e desenvolvimento de projetos que utilizam a tecnologia para resolver problemas ou atender necessidades da sociedade. Além do conhecimento técnico, ela estimula a criatividade, a organização e o trabalho colaborativo.
+A disciplina de **Artes Digitais** explora a criação artística por meio de tecnologias digitais, combinando criatividade, design e inovação. Utilizando computadores, tablets e softwares especializados, é possível produzir conteúdos visuais modernos para diversas áreas do mercado.
 
-📚 Principais Conteúdos
-📋 Planejamento de Projetos
+---
 
-Organização de ideias, definição de objetivos, cronogramas e estratégias para o desenvolvimento de projetos.
+## 🎯 O que são Artes Digitais?
 
-💻 Tecnologia da Informação
+As Artes Digitais são formas de expressão artística desenvolvidas com o auxílio de ferramentas tecnológicas. Elas permitem criar, editar e compartilhar obras digitais, sendo amplamente utilizadas na comunicação, entretenimento, publicidade e educação.
 
-Utilização de softwares, plataformas digitais e recursos tecnológicos para criação e gerenciamento de soluções.
+---
 
-🤝 Trabalho em Equipe
+## 📚 Principais Conteúdos
 
-Desenvolvimento da colaboração, comunicação e divisão de responsabilidades entre os integrantes do projeto.
+### 🖌️ Pintura Digital
 
-🔍 Pesquisa e Desenvolvimento
+Criação de desenhos e ilustrações utilizando programas de arte digital.
 
-Busca de informações, análise de dados e estudo de soluções para aprimorar os projetos.
+### 🎨 Design Gráfico
 
-🎯 Resolução de Problemas
+Desenvolvimento de logotipos, cartazes, banners, capas e identidades visuais.
 
-Identificação de desafios e criação de soluções inovadoras utilizando a tecnologia.
+### 🎬 Animação
 
-📢 Comunicação e Apresentação
+Produção de imagens em movimento para filmes, séries, jogos e conteúdos digitais.
 
-Produção de relatórios, apresentações e demonstrações dos projetos desenvolvidos.
+### 🏗️ Modelagem 3D
 
-🛠️ Ferramentas Utilizadas
-GitHub
-Visual Studio Code
-Canva
-Google Workspace
-Ferramentas de Pesquisa Online
-Plataformas de Gerenciamento de Projetos
-🌟 Importância do PTIC
+Criação de objetos, cenários e personagens tridimensionais para diferentes aplicações.
 
-A disciplina é fundamental para preparar os estudantes para situações reais do mercado de trabalho, promovendo o desenvolvimento de competências como:
+### 💻 Arte Generativa
 
-Planejamento e organização;
-Trabalho em equipe;
-Comunicação eficiente;
-Pensamento crítico;
-Criatividade e inovação;
-Desenvolvimento de projetos tecnológicos.
-✅ Vantagens
-Aplicação prática dos conhecimentos adquiridos;
-Desenvolvimento de habilidades profissionais;
-Estímulo à criatividade e à inovação;
-Aprimoramento da comunicação e liderança;
-Preparação para desafios acadêmicos e profissionais;
-Experiência no desenvolvimento de projetos reais.
-🏁 Conclusão
+Produção artística baseada em algoritmos e programação.
 
-O PTIC é uma disciplina que conecta teoria e prática, permitindo que os estudantes desenvolvam soluções inovadoras por meio da tecnologia. Além de ampliar os conhecimentos técnicos, contribui para a formação de profissionais mais preparados para os desafios do mundo digital.
+### 📷 Fotografia Digital
+
+Captura, edição e tratamento de imagens utilizando recursos digitais.
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+
+* Adobe Photoshop
+* Adobe Illustrator
+* Blender
+* Procreate
+* Canva
+
+---
+
+## 🌟 Importância das Artes Digitais
+
+As Artes Digitais estão presentes em diversos setores da sociedade moderna, como:
+
+* Publicidade e Marketing;
+* Jogos Digitais;
+* Cinema e Televisão;
+* Redes Sociais;
+* Educação;
+* Comunicação Visual.
+
+---
+
+## ✅ Vantagens
+
+* Facilidade para editar e corrigir projetos;
+* Grande variedade de recursos visuais;
+* Compartilhamento rápido pela internet;
+* Integração com vídeos, animações e elementos interativos;
+* Ampliação das possibilidades criativas.
+
+---
+
+## 🏁 Conclusão
+
+As Artes Digitais representam a união entre arte e tecnologia, oferecendo novas formas de criação, comunicação e expressão. Seu estudo é fundamental para compreender as transformações da produção artística na era digital e as oportunidades profissionais associadas a esse campo.
+
+---
+
